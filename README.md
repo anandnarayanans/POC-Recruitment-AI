@@ -2,6 +2,12 @@
 
 ✅https://www.veed.io/view/fe01827f-d166-49ef-ad92-b7928984da0d?panel=share
 
+# Description:
+
+-**Automated AI-Powered Recruitment System:** Developed an intelligent resume parsing application that extracts key candidate information, matches profiles to job descriptions with high accuracy, and provides AI-generated experience summaries.
+
+-**Enhanced Hiring Efficiency:** Improved candidate shortlisting accuracy by 30%, reducing manual screening time by 60%, with detailed skill-match analysis highlighting strengths and gaps for informed hiring decisions.
+
 # Pics
 
 ![image](https://github.com/user-attachments/assets/20123334-aeb9-43a4-9be6-97104ddc970f)
